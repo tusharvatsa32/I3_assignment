@@ -1,7 +1,7 @@
 # I3_assignment
 ## Authors : Tushar Vatsa(tvatsa) and Fernando Cerda(fernandc)
 
-![![tushar](https://user-images.githubusercontent.com/74168532/158913072-566afc9c-b4cc-4100-b2b1-573520dea413.jpeg)
+![tushar](https://user-images.githubusercontent.com/74168532/158913072-566afc9c-b4cc-4100-b2b1-573520dea413.jpeg)
 ![f_cerda](https://user-images.githubusercontent.com/74168532/158913080-f45ac9c7-a219-4571-9f32-05fda4500d4e.jpeg)
 
 ## Motivation
